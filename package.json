@@ -7,6 +7,7 @@
     "serve": "vite preview"
   },
   "dependencies": {
+    "@rollup/plugin-node-resolve": "^13.1.3",
     "hover-effect": "^1.1.0",
     "react": "^17.0.0",
     "react-dom": "^17.0.0",
